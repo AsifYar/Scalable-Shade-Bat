@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/scala/ScalableMLforBigDataCourse/HMPDataProcessing.scala" line="47" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/scala/ShadeBatIsland80/bat1.scala" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5383999c-e21f-449c-97ce-40598fdccf20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/LearningSparkBook/MlLibStatistics.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ShadeBatIsland80/testerFileReaad.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cheeeekr.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SequantialBAT/BAT1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SequantialBAT/BAT1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SequantialBAT/BATU1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SequantialBAT/BATU1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SequantialBAT/Executor1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SequantialBAT/Executor1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SequantialBAT/ObjFunctions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SequantialBAT/ObjFunctions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SequantialBAT/bat1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SequantialBAT/bat1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aSparkBat12/BAT.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aSparkBat12/BAT.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aSparkBat12/BroadcastWrapper1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aSparkBat12/BroadcastWrapper1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aSparkBat12/Executor112.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aSparkBat12/Executor112.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aSparkBat12/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aSparkBat12/Functions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aSparkBat12/ObjFunctions123.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aSparkBat12/ObjFunctions123.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aSparkBat12/bat.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aSparkBat12/bat.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/aSparkBat12/demo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/aSparkBat12/demo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/sparkBat12/BAT.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/sparkBat12/BroadcastWrapper1.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/sparkBat12/Executor112.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/sparkBat12/Functions.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/sparkBat12/ObjFunctions123.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/sparkBat12/bat.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/sparkBat12/demo.scala" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="225">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/oFunctions.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="91" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/shadeBat.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+              <folding>
+                <element signature="e#25#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/Executor1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/bat1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/BAT1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="4" column="131" selection-start-line="4" selection-start-column="131" selection-end-line="4" selection-end-column="131" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compute</find>
+      <find>arr_rdd2</find>
+      <find>setRandomAlgAndParams1</find>
+      <find>population</find>
+      <find>setRANDOM_ALGS_AND_PARAMS</find>
+      <find>evaluate</find>
+      <find>SiPDEPopulation</find>
+      <find>packa</find>
+      <find>addSubpopulationsConfig</find>
+      <find>rdd</find>
+      <find>problemSet</find>
+      <find>subscript</find>
+      <find>ndimensions</find>
+      <find>nfevalmax</find>
+      <find>minPopulationSize</find>
+      <find>np</find>
+      <find>defaultPopulationSize</find>
+      <find>configureInitialization</find>
+      <find>generations</find>
+      <find>round</find>
+      <find>funt</find>
+      <find>the optimal va</find>
+      <find>print</find>
+      <find>mai</find>
+      <find>strea</find>
+      <find>fId</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/scala" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/ShadeBatIsland102/oFunctions.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/strategies/AlgorithmCC.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/Algorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/strategies/DERand1bin.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/strategies/Algorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/strategies/Populations.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/strategies/DERand1binParal.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/strategies/Population.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/SiPDEPartitioner_wang.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/txjDEDeaf.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/arr_islandPopulation.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/CEC2013/Function.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/GDCS.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/hzhDEDeaf.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/SiPDEIndividuals.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/SparkTest/SiPDECCTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/island/SparkTest/SiPDETest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CEC2013/testfunc.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/AdvanceProcessing/RecomendingMusic/PredictingForestCoverwithDecisionTrees/LinearRegression.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/LearningSparkBook/PCA.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalableMLforBigDataCourse/HMPDataProcessing.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/LearningSparkBook/Workplace.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cceafs/CCEAFS.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/cceafs/Driver.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/cceafs/EvaluateAllFeaturesCross.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/ShadeBatIsland80/testerFileReaad.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/FileGenerator/mainObj.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ShadeBatIsland201/oFunctions.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ShadeBatIsland201/BAT1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/oFunctions.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/Executor1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/bat1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/BAT1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/shadeBat.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="dedicatedModuleDir" value="$PROJECT_DIR$" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="43" />
+    <option name="y" value="-3" />
+    <option name="width" value="1397" />
+    <option name="height" value="903" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Spark_Stack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_Stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spark_Stack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spark_Stack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spark_Stack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spark_Stack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spark_Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="ShadeBatIslandFS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616995450908" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/weka.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.mainObj">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cceafs.Driver" />
+      <module name="Spark_Stack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cceafs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SiPDECCTest" type="Application" factoryName="Application" temporary="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.island.SparkTest.SiPDECCTest" />
+      <module name="Spark_Stack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.island.SparkTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SiPDETest" type="Application" factoryName="Application" temporary="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.island.SparkTest.SiPDETest" />
+      <module name="Spark_Stack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.island.SparkTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainObj" type="Application" factoryName="Application" temporary="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FileGenerator.mainObj" />
+      <module name="Spark_Stack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileGenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testerFileReaad" type="Application" factoryName="Application" temporary="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ShadeBatIsland80.testerFileReaad" />
+      <module name="Spark_Stack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ShadeBatIsland80.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Driver" />
+      <item itemvalue="Application.SiPDECCTest" />
+      <item itemvalue="Application.SiPDETest" />
+      <item itemvalue="Application.mainObj" />
+      <item itemvalue="Application.testerFileReaad" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mainObj" />
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.testerFileReaad" />
+        <item itemvalue="Application.SiPDECCTest" />
+        <item itemvalue="Application.SiPDETest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5383999c-e21f-449c-97ce-40598fdccf20" name="Default Changelist" comment="" />
+      <created>1611828924967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611828924967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="39" y="-17" width="1402" height="918" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13656388" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49632892" visible="true" weight="0.26157698" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50367105" side_tool="true" visible="true" weight="0.028785983" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49779737" weight="0.2465582" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1989721" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2703379" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32916147" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/Algorithm.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/arr_islandPopulation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/GDCS.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/SubPopulation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/Topologies.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIsland82/oFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CEC2013/testfunc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/SiPDEPartitioner_wang.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/island/SparkTest/SiPDETest.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/SiPDEPopulation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/txjDEDeaf.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/Topology.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/hzhDEDeaf.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/island/SparkTest/SiPDECCTest.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/island/SparkStrategies/SiPDEIndividuals.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/LearningSparkBook/Workplace.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="60" column="55" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
+          <folding>
+            <element signature="e#28#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/LearningSparkBook/PCA.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+          <folding>
+            <element signature="e#27#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ScalableMLforBigDataCourse/HMPDataProcessing.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#77#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/AdvanceProcessing/RecomendingMusic/PredictingForestCoverwithDecisionTrees/LinearRegression.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/untitled2.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1044" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/test.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/untitled.sc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/untitled1.sc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cheeeekr.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cooperative-coevolution-CCEAFS/cceafs/CCEAFS.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cceafs/ContextVector.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cceafs/EvaluateAllFeatures.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cceafs/EvaluateFeatures.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cceafs/EvaluateFeaturesCross.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cceafs/GeneticAlgorithm.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cceafs/Individual.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cceafs/SortBestIndividualesByFitness.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cceafs/Stopwatch.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cceafs/SubPopulation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cceafs/Driver.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cceafs/CCEAFS.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cceafs/EvaluateAllFeaturesCross.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIsland80/BAT1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIsland80/testerFileReaad.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/FileGenerator/mainObj.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#23#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIsland201/oFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIsland201/BAT1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIsland80/bat1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="727">
+          <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIsland80/oFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIsland80/shadeBat.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/oFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="91" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/BAT1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="131" selection-start-line="4" selection-start-column="131" selection-end-line="4" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/Executor1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/bat1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ShadeBatIslandFS/shadeBat.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+          <folding>
+            <element signature="e#25#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spark_Stack</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.chuusai:shapeless_2.12:2.3.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

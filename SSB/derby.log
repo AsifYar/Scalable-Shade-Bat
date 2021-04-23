@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 01 16:45:42 PKT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0171-358f-b3ba-000008483638 
+on database directory /home/hadoopuser/IdeaProjects/Spark_Stack/metastore_db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/hadoopuser/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/home/hadoopuser/IdeaProjects/Spark_Stack
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-70-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
