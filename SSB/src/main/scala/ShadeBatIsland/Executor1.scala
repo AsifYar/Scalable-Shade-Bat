@@ -97,10 +97,7 @@ class Executor1(sc: SparkContext,  Bandwidth: Double, alpha: Double, gyma: Doubl
             val singleBestFit = Bests1(0).fitness
             val meanBest = (Bests(0), Bests(1), Bests(2)).zipped.map(_ + _ + _).map(_ / 3.0)
             val meanBestFit = f(meanBest)
-            if (singleBestFit <= localBestFit) {
-              localBest = Bests(0).clone()
-              localBestFit = singleBestFit
-            }
+            
 
             if (meanBestFit <= localBestFit) {
               localBest = meanBest
